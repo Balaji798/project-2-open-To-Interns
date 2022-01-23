@@ -1,5 +1,4 @@
 # project-2-open-To-Interns
-[21:08] Aman Kumar_R2
 ## Open to Intern Project Requirement ### Key points
 
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
